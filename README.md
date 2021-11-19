@@ -38,6 +38,7 @@ Esse notebook explica algumas características do `Colab` e mostra como dar os p
 
 Ok, já li e entendi o que é o Colaboratory, mas quero criar meu próprio notebook! 
 Para fazer isso, precisamos clicar em `>File`, na parte superior esquerda, logo em seguida em `>New Notebook`. 
+Caso queira realizar o ‘upload’ do **Notebook** `knn_tomato.ipynb` direto, basta clicar em `>File`, logo em seguida em `>Upload Notebook`.
 
 #### Veja figura abaixo:
 
