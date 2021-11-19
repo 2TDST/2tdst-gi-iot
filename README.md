@@ -48,7 +48,7 @@ Mas não se esqueça de alterar o nome da `Pasta` do **Google Drive**, em que o 
 Esta alteração deve ser realizada na linha `12` do arquivo `knn_tomato.ipynb`, 
 alterando a variável de referência `{{ PASTA }}` pelo nome da sua pasta, na função `open()`:
 
-```thymeleafexpressions
+```jupyterpython
 11 
 12  with open('/content/drive/My Drive/{{ PASTA }}/dataset_tomate.csv', 'r') as dataset:
 13 
